@@ -1,0 +1,7 @@
+Skill-q: Garen slows enemy; +30% movment speed for  3,5 sec.; damage to enemy 90 (+140% atack damge), next aa silecne enemy for 1.5s
+Skill-w: Garen reduces incoming damage by 30% and gains shield 170+20% bonus health; 6s duration time
+(Garen get 0,2 armor and magic resist after kill enemy up to 30 bonus Armor and magic resist)
+Skill-e: Garen spins his sword around himself 7 (+ 1 per 25% bonus attack speed);PHYSICAL DAMAGE PER SPIN:20+40% atack damage+INCREASED DAMAGE PER SPIN:25+50% atack damage
+Enemy champions hit 6 times by Judgment have their Armor penetration: armor reduced by 25% for 6 seconds,
+Skill-r: Garen hit enemy with 450 true damage+ 35% missing health
+ 
